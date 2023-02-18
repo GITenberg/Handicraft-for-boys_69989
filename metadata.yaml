@@ -1,0 +1,31 @@
+_repo: Handicraft-for-boys_69989
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, A. Frederick (Archie Frederick)
+    alias: Collins, Archie Frederick
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '2266'
+    url: http://www.gutenberg.org/2009/agents/2266
+    wikipedia: https://en.wikipedia.org/wiki/Archie_Frederick_Collins
+description: ''
+gutenberg_issued: '2023-02-08'
+identifiers:
+  gutenberg: '69989'
+language: en
+pgterms:marc904: https://archive.org/details/handicraftforboy00coll/page/n9/mode/2up
+pgterms:marc905: 20200617211708collins
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Charlene Taylor, Harry Lamé and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bFrederick A. Stokes Company, $c1918.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Handicraft for boys
+url: http://www.gutenberg.org/ebooks/69989
